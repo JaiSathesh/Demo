@@ -1,0 +1,2 @@
+tish is new test3.txt file
+created by status
